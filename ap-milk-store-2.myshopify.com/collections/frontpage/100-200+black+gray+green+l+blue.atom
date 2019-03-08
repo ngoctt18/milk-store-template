@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://ap-milk-store-2.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://ap-milk-store-2.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://ap-milk-store-2.myshopify.com/collections/frontpage/100-200+black+gray+green+l+blue.atom"/>
+  <title>AP-MILK-STORE</title>
+  <updated>2015-08-13T10:44:00-04:00</updated>
+  <author>
+    <name>AP-MILK-STORE</name>
+  </author>
+  <entry>
+    <id>https://ap-milk-store-2.myshopify.com/products/1119719620</id>
+    <published>2015-08-13T10:44:00-04:00</published>
+    <updated>2015-08-13T10:44:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ap-milk-store-2.myshopify.com/products/nullam-volutpat"/>
+    <title>Commo habita lacus aenean consequat sagittis</title>
+    <s:type>Shirt</s:type>
+    <s:vendor>Nike</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0928/4804/products/p15.jpg?v=1439571039" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nike<br />
+        <strong>Type: </strong>Shirt<br />
+        <strong>Price: </strong>
+            19.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Sed id faucibus ligula. Suspendisse eleifend ligula eget purus condimentum pulvinar. Nullam volutpat est diam, sed pretium ligula pretium vel.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue</s:tag>
+    <s:tag>Clothing</s:tag>
+    <s:tag>Cotton</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>N</s:tag>
+    <s:tag>red</s:tag>
+    <s:tag>sum</s:tag>
+    <s:variant>
+      <id>https://ap-milk-store-2.myshopify.com/products/1119719620</id>
+      <title>M</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-milk-store-2.myshopify.com/products/1119719620</id>
+      <title>N</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ap-milk-store-2.myshopify.com/products/1119718980</id>
+    <published>2015-08-13T10:44:00-04:00</published>
+    <updated>2015-08-13T10:44:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ap-milk-store-2.myshopify.com/products/donec-fringilla"/>
+    <title>Aenean sagittis commodo habitasse lacus</title>
+    <s:type>Shirt</s:type>
+    <s:vendor>Nike</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0928/4804/products/p3.jpg?v=1439570902" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nike<br />
+        <strong>Type: </strong>Shirt<br />
+        <strong>Price: </strong>
+            38.00 - 41.00
+            <a href="https://ap-milk-store-2.myshopify.com/products/donec-fringilla">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Donec fringilla sapien sed elit luctus, eget mattis dolor efficitur. Ut id libero nulla. Morbi aliquam tortor massa, in aliquet eros molestie in. Quisque eleifend diam leo, a bibendum mi eleifend eget.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>N</s:tag>
+    <s:tag>red</s:tag>
+    <s:tag>S</s:tag>
+    <s:variant>
+      <id>https://ap-milk-store-2.myshopify.com/products/1119718980</id>
+      <title>M / red</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-milk-store-2.myshopify.com/products/1119718980</id>
+      <title>M / blue</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-milk-store-2.myshopify.com/products/1119718980</id>
+      <title>M / green</title>
+      <s:price currency="USD">41.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-milk-store-2.myshopify.com/products/1119718980</id>
+      <title>N / red</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-milk-store-2.myshopify.com/products/1119718980</id>
+      <title>N / blue</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-milk-store-2.myshopify.com/products/1119718980</id>
+      <title>N / green</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ap-milk-store-2.myshopify.com/products/1119718276</id>
+    <published>2015-08-13T10:44:00-04:00</published>
+    <updated>2015-08-13T10:44:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ap-milk-store-2.myshopify.com/products/nullam-commodo"/>
+    <title>Egestas lorem commodo libero quis enim vehicula</title>
+    <s:type>Shirt</s:type>
+    <s:vendor>Nike</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0928/4804/products/p17.jpg?v=1439571095" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nike<br />
+        <strong>Type: </strong>Shirt<br />
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Donec fringilla sapien sed elit luctus, eget mattis dolor efficitur. Ut id libero nulla. Morbi aliquam tortor massa, in aliquet eros molestie in. Quisque eleifend diam leo, a bibendum mi eleifend eget.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clothing</s:tag>
+    <s:variant>
+      <id>https://ap-milk-store-2.myshopify.com/products/1119718276</id>
+      <title>M / red</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-milk-store-2.myshopify.com/products/1119718276</id>
+      <title>M / blue</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-milk-store-2.myshopify.com/products/1119718276</id>
+      <title>M / green</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-milk-store-2.myshopify.com/products/1119718276</id>
+      <title>N / red</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-milk-store-2.myshopify.com/products/1119718276</id>
+      <title>N / blue</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-milk-store-2.myshopify.com/products/1119718276</id>
+      <title>N / green</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ap-milk-store-2.myshopify.com/products/1119716036</id>
+    <published>2015-08-13T10:43:52-04:00</published>
+    <updated>2015-08-13T10:43:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ap-milk-store-2.myshopify.com/products/vestibulum-mi-1"/>
+    <title>Malesuada fames acurpis egestas lorem commodo</title>
+    <s:type>Shirt</s:type>
+    <s:vendor>Nike</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0928/4804/products/p22.jpg?v=1439571350" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nike<br />
+        <strong>Type: </strong>Shirt<br />
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Donec fringilla sapien sed elit luctus, eget mattis dolor efficitur. Ut id libero nulla. Morbi aliquam tortor massa, in aliquet eros molestie in. Quisque eleifend diam leo, a bibendum mi eleifend eget.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clothing</s:tag>
+    <s:variant>
+      <id>https://ap-milk-store-2.myshopify.com/products/1119716036</id>
+      <title>M / red</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-milk-store-2.myshopify.com/products/1119716036</id>
+      <title>M / blue</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-milk-store-2.myshopify.com/products/1119716036</id>
+      <title>M / green</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-milk-store-2.myshopify.com/products/1119716036</id>
+      <title>N / red</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-milk-store-2.myshopify.com/products/1119716036</id>
+      <title>N / blue</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-milk-store-2.myshopify.com/products/1119716036</id>
+      <title>N / green</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ap-milk-store-2.myshopify.com/products/1119715652</id>
+    <published>2015-08-13T10:43:50-04:00</published>
+    <updated>2015-08-13T10:43:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ap-milk-store-2.myshopify.com/products/copy-of-vestibulum-mi"/>
+    <title>Malesuada fames acurpis egestas lorem commodo</title>
+    <s:type>Shirt</s:type>
+    <s:vendor>Nike</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0928/4804/products/p6.jpg?v=1439571392" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nike<br />
+        <strong>Type: </strong>Shirt<br />
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Donec fringilla sapien sed elit luctus, eget mattis dolor efficitur. Ut id libero nulla. Morbi aliquam tortor massa, in aliquet eros molestie in. Quisque eleifend diam leo, a bibendum mi eleifend eget.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clothing</s:tag>
+    <s:variant>
+      <id>https://ap-milk-store-2.myshopify.com/products/1119715652</id>
+      <title>M / red</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-milk-store-2.myshopify.com/products/1119715652</id>
+      <title>M / blue</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-milk-store-2.myshopify.com/products/1119715652</id>
+      <title>M / green</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-milk-store-2.myshopify.com/products/1119715652</id>
+      <title>N / red</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-milk-store-2.myshopify.com/products/1119715652</id>
+      <title>N / blue</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-milk-store-2.myshopify.com/products/1119715652</id>
+      <title>N / green</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ap-milk-store-2.myshopify.com/products/1119714372</id>
+    <published>2015-08-13T10:43:45-04:00</published>
+    <updated>2015-08-13T10:43:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ap-milk-store-2.myshopify.com/products/donec-fringilla-2"/>
+    <title>Malesuada bibendum duiat egestas lorem commodo</title>
+    <s:type>Bag</s:type>
+    <s:vendor>Nike</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0928/4804/products/p25.jpg?v=1439571290" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nike<br />
+        <strong>Type: </strong>Bag<br />
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Donec fringilla sapien sed elit luctus, eget mattis dolor efficitur. Ut id libero nulla. Morbi aliquam tortor massa, in aliquet eros molestie in. Quisque eleifend diam leo, a bibendum mi eleifend eget.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clothing</s:tag>
+    <s:variant>
+      <id>https://ap-milk-store-2.myshopify.com/products/1119714372</id>
+      <title>M / red</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-milk-store-2.myshopify.com/products/1119714372</id>
+      <title>M / blue</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-milk-store-2.myshopify.com/products/1119714372</id>
+      <title>M / green</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-milk-store-2.myshopify.com/products/1119714372</id>
+      <title>N / red</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-milk-store-2.myshopify.com/products/1119714372</id>
+      <title>N / blue</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-milk-store-2.myshopify.com/products/1119714372</id>
+      <title>N / green</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ap-milk-store-2.myshopify.com/products/1119717188</id>
+    <published>2015-08-13T10:43:00-04:00</published>
+    <updated>2015-08-13T10:43:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ap-milk-store-2.myshopify.com/products/nullam-volutpat-1"/>
+    <title>Libero quis enim vehicula egestas lorem commodo</title>
+    <s:type>Milk</s:type>
+    <s:vendor>Nike</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0928/4804/products/p14.jpg?v=1439571205" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nike<br />
+        <strong>Type: </strong>Milk<br />
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Donec fringilla sapien sed elit luctus, eget mattis dolor efficitur. Ut id libero nulla. Morbi aliquam tortor massa, in aliquet eros molestie in. Quisque eleifend diam leo, a bibendum mi eleifend eget.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clothing</s:tag>
+    <s:variant>
+      <id>https://ap-milk-store-2.myshopify.com/products/1119717188</id>
+      <title>M / red</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-milk-store-2.myshopify.com/products/1119717188</id>
+      <title>M / blue</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-milk-store-2.myshopify.com/products/1119717188</id>
+      <title>M / green</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-milk-store-2.myshopify.com/products/1119717188</id>
+      <title>N / red</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-milk-store-2.myshopify.com/products/1119717188</id>
+      <title>N / blue</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-milk-store-2.myshopify.com/products/1119717188</id>
+      <title>N / green</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ap-milk-store-2.myshopify.com/products/1119716612</id>
+    <published>2015-08-13T10:43:00-04:00</published>
+    <updated>2015-08-13T10:43:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ap-milk-store-2.myshopify.com/products/nullam-commodo-1"/>
+    <title>Libero quis enim vehicula egestas lorem commodo</title>
+    <s:type>Milk</s:type>
+    <s:vendor>Nike</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0928/4804/products/p11.jpg?v=1439571172" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nike<br />
+        <strong>Type: </strong>Milk<br />
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Donec fringilla sapien sed elit luctus, eget mattis dolor efficitur. Ut id libero nulla. Morbi aliquam tortor massa, in aliquet eros molestie in. Quisque eleifend diam leo, a bibendum mi eleifend eget.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clothing</s:tag>
+    <s:variant>
+      <id>https://ap-milk-store-2.myshopify.com/products/1119716612</id>
+      <title>M / red</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-milk-store-2.myshopify.com/products/1119716612</id>
+      <title>M / blue</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-milk-store-2.myshopify.com/products/1119716612</id>
+      <title>M / green</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-milk-store-2.myshopify.com/products/1119716612</id>
+      <title>N / red</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-milk-store-2.myshopify.com/products/1119716612</id>
+      <title>N / blue</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-milk-store-2.myshopify.com/products/1119716612</id>
+      <title>N / green</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ap-milk-store-2.myshopify.com/products/1119713732</id>
+    <published>2015-08-13T10:43:00-04:00</published>
+    <updated>2015-08-13T10:43:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ap-milk-store-2.myshopify.com/products/donec-sodales"/>
+    <title>Suspendisse congue lacus egestas lorem commodo</title>
+    <s:type>Milk</s:type>
+    <s:vendor>Nike</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0928/4804/products/p9.jpg?v=1439571806" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nike<br />
+        <strong>Type: </strong>Milk<br />
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Donec fringilla sapien sed elit luctus, eget mattis dolor efficitur. Ut id libero nulla. Morbi aliquam tortor massa, in aliquet eros molestie in. Quisque eleifend diam leo, a bibendum mi eleifend eget.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clothing</s:tag>
+    <s:variant>
+      <id>https://ap-milk-store-2.myshopify.com/products/1119713732</id>
+      <title>M / red</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-milk-store-2.myshopify.com/products/1119713732</id>
+      <title>M / blue</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-milk-store-2.myshopify.com/products/1119713732</id>
+      <title>M / green</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-milk-store-2.myshopify.com/products/1119713732</id>
+      <title>N / red</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-milk-store-2.myshopify.com/products/1119713732</id>
+      <title>N / blue</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-milk-store-2.myshopify.com/products/1119713732</id>
+      <title>N / green</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

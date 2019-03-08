@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+ap-supper-store.myshopify.com	TRUE	/admin	FALSE	1999999999	_secure_admin_session_id	b8c24dcd205407c0c3410a49807c93b1
+ap-supper-store.myshopify.com	TRUE	/admin	FALSE	1999999999	shopify_web_return_to	%2Fadmin%2Fpages%2Fbootstrap.css
+ap-milk-store-2.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_y	3afdf82a-184f-46ed-ae5e-8eabea49b6fe
+ap-milk-store-2.myshopify.com	TRUE	/	FALSE	1999999999	cart_currency	USD
+ap-milk-store-2.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_country	Vietnam
+ap-milk-store-2.myshopify.com	TRUE	/	FALSE	1999999999	_landing_page	%2F
+.google.com	TRUE	/	FALSE	1999999999	NID	160=Ek44H4OpUa348YeEDmmqcBMqYeiwC3lX0_JmNMiPP4QCcHvfNio4C6hLcRYUZJnn574xJ5pg_CKcxRxdMPpOlf2fy8Dla_GLZF8EsWIW87vydYwX4ST0qRf_Nor9tD-M1H_V2qpKcS8vrMOSLEbSTMj4QCGV4Cj04wkurnOBTuI
+
